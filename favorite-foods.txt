@@ -1,0 +1,11 @@
+Favorite Foods:
+	
+	1) Cheese
+	2) Bread
+	3) Steak
+	4) Pot Roast
+	5) Turkey
+	6) Chocolate Pudding
+	7) Chocolate Cake
+	8) Chocolate and Peanut Butter
+	
